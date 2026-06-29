@@ -36,7 +36,7 @@ This project presents a computational fluid dynamics (CFD) analysis of a mixing 
 
 The mixing elbow geometry was created in ANSYS Discovery. Two models were prepared by modifying only the pipe diameter while maintaining the same overall geometry.
 
-![Geometry](images/geometry.png)
+[Geometry]
 
 ---
 
@@ -44,7 +44,7 @@ The mixing elbow geometry was created in ANSYS Discovery. Two models were prepar
 
 A CFD mesh was generated for both models to ensure accurate numerical analysis.
 
-![Mesh](images/mesh.png)
+[Mesh]
 
 ---
 
@@ -59,15 +59,13 @@ The simulation was configured by defining:
 
 The solver was executed until convergence.
 
-![Solver Setup](images/setup.png)
-
 ---
 
 ### 4. CFD Simulation
 
 Steady-state CFD simulations were performed for both pipe diameters under identical operating conditions.
 
-![Simulation](images/simulation.png)
+[Simulation]
 
 ---
 
@@ -75,9 +73,9 @@ Steady-state CFD simulations were performed for both pipe diameters under identi
 
 Velocity and temperature contours were extracted for both cases.
 
-![Velocity](images/velocity.png)
+[Velocity]
 
-![Temperature](images/temperature.png)
+[Temperature]
 
 ---
 
@@ -92,7 +90,7 @@ The comparison focused on:
 
 Comparison plots were generated to evaluate the influence of pipe diameter on fluid flow and thermal mixing.
 
-![Comparison](images/comparison.png)
+[Comparison]
 
 ---
 
